@@ -1,16 +1,15 @@
-### Hi there 👋
+### Olá! Eu me chamo Minnael Campelo 👋
 
-<!--
-**Minnael/Minnael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- No momento estou cursando Bacharelado em Ciência e Tecnologia com enfâse em computação 📚
+- Possuo curso técnico em mecânica pelo IFRN 🎓
+- No momento estou trabalhando bastante com as linguagens C, C++ e python 👨‍💻
+- Gosto bastante de matemática, física, programação e robótica 🔢🤖
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/Minnael">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Minnael&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minnael&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+
