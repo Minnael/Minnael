@@ -13,6 +13,8 @@
 <img alt="github-snake" src="https://github.com/Minnael/Minnael/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
+![Snake animation](https://github.com/Minnael/Minnael/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
