@@ -1,8 +1,12 @@
 ### Olá! Eu me chamo Minnael Campelo 👋
-No momento estou cursando Bacharelado em Ciência e Tecnologia com enfâse em computação 📚
-Possuo curso técnico em mecânica pelo IFRN 🎓
-No momento estou trabalhando bastante com as linguagens C, C++ e python 👨‍💻
-Gosto bastante de matemática, física, programação e robótica 🔢🤖
+
+- No momento estou cursando Bacharelado em Ciência e Tecnologia com enfâse em computação 📚
+
+- Possuo curso técnico em mecânica pelo IFRN 🎓
+
+- No momento estou trabalhando bastante com as linguagens C, C++ e python 👨‍💻
+
+- Gosto bastante de matemática, física, programação e robótica 🔢🤖
 
 <div>
 <a href="https://github.com/Minnael">
