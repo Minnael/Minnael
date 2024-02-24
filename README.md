@@ -1,24 +1,24 @@
-<h1 align="center">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="center">Hello! My name is Minnael Campelo👋</p>
+<p align="left">Hello! My name is Minnael Campelo👋</p>
 
 ###
 
-<h2 align="center">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="center">📚 I'm currently studying a Bachelor's degree in Science and Technology with an emphasis on computing. <br>👨‍💻 At the moment I'm working a lot with the languages ​​C, C++ and Python. <br>🔢 I really like mathematics, physics, programming and robotics.<br>🎓I have a technical course in mechanics from IFRN.</p>
+<p align="left">📚 I'm currently studying a Bachelor's degree in Science and Technology with an emphasis on computing. <br>👨‍💻 At the moment I'm working a lot with the languages ​​C, C++ and Python. <br>🔢 I really like mathematics, physics, programming and robotics.<br>🎓I have a technical course in mechanics from IFRN.</p>
 
 ###
 
-<h2 align="center">I code with</h2>
+<h2 align="left">I code with</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
