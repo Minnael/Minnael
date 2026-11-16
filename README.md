@@ -9,17 +9,10 @@
 ### 👨‍💻 About Me
 
 - 🤖 **Current Focus:** Developing NLP pipelines, orchestrating local LLMs, and integrating AI into robust microservices architectures.
-- 💼 **Experience:** Building R&D and enterprise solutions for strategic sectors, including the **Brazilian Ministry of Health** (AI-driven data triage and search with OpenSearch), the **Federal Court of RN** (LLM orchestration & legal workflows automation), and **Shell** (deep learning for seismic imaging with CNNs on an HPC cluster).
+- 💼 **Experience:** Building R&D and enterprise solutions for strategic sectors, including the **Brazilian Ministry of Health** (AI-driven data triage and search), the **Federal Court of RN** (LLM orchestration & legal workflows automation), and **Shell** (deep learning for seismic imaging with CNNs on an HPC cluster).
+- 📌 **Projects:** My main public projects are pinned right below. Work for the Ministry of Health, Federal Court of RN, Petrobras and Shell was developed under institutional partnerships, so its source code is not public.
 - 🎓 **Education:** B.Sc. in Computer Engineering at Universidade Federal do Rio Grande do Norte (UFRN), expected Dec 2026 · M.Sc. student in Computer and Electrical Engineering (PPgEEC/UFRN).
 - 🏆 **Problem Solving:** Passionate about algorithms, high-performance computing, and competitive programming.
-
-### 🚀 Featured Projects
-
-- **[PUT-REPO-NAME-HERE](PUT-REPO-LINK-HERE)**: Pipeline for fault detection on the Tennessee Eastman Process: 4.5σ discretization of process variables followed by PrefixSpan sequential pattern mining. Results: [DETECTION RATE]% detection, [FALSE ALARM RATE]% false alarms.
-- **[UFC-SCRAPPING-MASTER](PUT-REPO-LINK-HERE)**: Web scraping and machine learning to predict MMA fight outcomes. [ONE METRIC, e.g., accuracy on held-out fights].
-- **[PUT-REPO-NAME-HERE](PUT-REPO-LINK-HERE)**: [ONE LINE: problem, method, result].
-
-> Work for the Ministry of Health, Federal Court of RN, Petrobras and Shell was developed under institutional partnerships; source code is not public.
 
 ### 🛠️ Tech Stack & Tools
 
@@ -56,14 +49,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="Docker" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white&style=for-the-badge" height="30" alt="OpenSearch" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="Git" />
-</div>
-
-### 📫 Let's Connect
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/minnael">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
-  </a>
-</div>
