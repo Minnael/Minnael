@@ -1,41 +1,52 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi there, I'm Minnael Campelo 👋</h1>
 
-###
+<h3 align="left">Software Engineer | AI & Machine Learning | Backend</h3>
 
-<p align="left">Hello! My name is Minnael Campelo👋</p>
+<p align="left">
+  I am a Computer Engineering student at UFRN with a strong focus on building scalable ecosystems to support AI products. I bridge the gap between robust backend infrastructures and advanced machine learning models, turning complex data into real-world solutions.
+</p>
 
-###
+### 👨‍💻 About Me
 
-<h2 align="left">About me</h2>
+- 🤖 **Current Focus:** Developing NLP pipelines, orchestrating local LLMs, and integrating AI into robust microservices architectures.
+- 💼 **Experience:** Building R&D and enterprise solutions for strategic sectors, including the **Brazilian Ministry of Health** (AI-driven data triage), the **Federal Court of RN** (LLM orchestration & legal workflows automation), and **Shell** (Machine Learning for seismic imaging).
+- 🎓 **Education:** Computer Engineering at Universidade Federal do Rio Grande do Norte (UFRN).
+- 🏆 **Problem Solving:** Passionate about algorithms, high-performance computing, and competitive programming.
 
-###
+### 🛠️ Tech Stack & Tools
 
-<p align="left">📚 I'm currently studying a Bachelor's degree in Science and Technology with an emphasis on computing. <br>👨‍💻 At the moment I'm working a lot with the languages ​​C, C++ and Python. <br>🔢 I really like mathematics, physics, programming and robotics.<br>🎓I have a technical course in mechanics from IFRN.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
+**AI & Machine Learning**
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="30" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" height="30" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white&style=for-the-badge" height="30" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Ollama-FFFFFF?logo=ollama&logoColor=black&style=for-the-badge" height="30" alt="Ollama" />
+</div>
+<br>
+
+**Backend & Architecture**
+<div align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=for-the-badge" height="30" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring-boot&logoColor=white&style=for-the-badge" height="30" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="30" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" height="30" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="30" alt="Go" />
+</div>
+<br>
+
+**DevOps & Databases**
+<div align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" height="30" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/OpenSearch-005EB8?logo=opensearch&logoColor=white&style=for-the-badge" height="30" alt="OpenSearch" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="Git" />
 </div>
 
-###
+### 📫 Let's Connect
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/minnael">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="40" alt="LinkedIn" />
+  </a>
+</div>
